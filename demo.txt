@@ -1,4 +1,4 @@
 heya,
     i cant pull request pls help
 hello, 
-    I wanna create merge conflict hence editing in this file
+    I dont want to create merge conflict hence editing in this file
